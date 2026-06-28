@@ -35,3 +35,11 @@ A web-based **Rock–Paper–Scissors** game built with **HTML**, **CSS**, and *
 - **JavaScript (Vanilla)** – Game logic, DOM updates, and state management
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Output Screenshots/Rock_Paper_Scissor.png" width="48%" />
+</p>
+
+---
